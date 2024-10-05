@@ -1,0 +1,6 @@
+Nombre: [YAMITH_SALCEDO] Email: [salcedoyamith@gmail.com]> kotlin.txt
+
+
+
+
+echo Nombre: [YAMITH_SALCEDO] Email: [salcedoyamith@gmail.com]
